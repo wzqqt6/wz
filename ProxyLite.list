@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,emby3.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,emby
 
 # IP段匹配
